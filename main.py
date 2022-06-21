@@ -2,14 +2,15 @@ from kivy.app import App
 from kivy.uix.widget import Widget
 
 
-class SufiGame(Widget):
+class ClockedWindow(Widget):
     pass
 
 
-class SufiApp(App):
+class ClockedApp(App):
     def build(self):
-        return SufiGame()
+        self.icon = r'Assets/images/ClockedLogo.png'
+        return ClockedWindow()
 
 
 if __name__ == '__main__':
-    SufiApp().run()
+    ClockedApp().run()

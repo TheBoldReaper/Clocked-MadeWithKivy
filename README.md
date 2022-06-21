@@ -4,8 +4,8 @@
 2. Install [Pycharm](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC)
 3. Open pythonProject in **Pycharm**
 4. Find '**Terminal**' tab in the bottom of Pycharm
-![img.png](PycharmTerminal.png)
+![img.png](ReadmeIMGs/PycharmTerminal.png)
 5. Type `python -m pip install --upgrade pip setuptools virtualenv`
 6. Type `py -m pip install -r requirements.txt`
 
-Now you can just click the green play button ![img_1.png](GreenPlayBtn.png)  and run it
+Now you can just click the green play button ![img_1.png](ReadmeIMGs/GreenPlayBtn.png)  and run it

@@ -1,3 +1,4 @@
+![ClockedLogo.png](ReadmeIMGs/ClockedGitHubLogo.png)
 ### Build instructions
 
 1. Install Python 3.10 via _**[MICROSOFT STORE](https://www.microsoft.com/store/productId/9PJPW5LDXLZ5)**_

@@ -9,3 +9,5 @@
 6. Type `py -m pip install -r requirements.txt`
 
 Now you can just click the green play button ![img_1.png](ReadmeIMGs/GreenPlayBtn.png)  and run it
+
+If that doesn't work check if you have set up configurations correctly.
